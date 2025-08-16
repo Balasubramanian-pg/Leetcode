@@ -1,0 +1,41 @@
+## 3.1 Basic INNER JOIN
+
+- [[Python/Interview Question/Leetcode (Python)/Easy/175. Combine Two Tables]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.1 Basic INNER JOIN/577. Employee Bonus]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.1 Basic INNER JOIN/584. Find Customer Referee]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.1 Basic INNER JOIN/1050. Actors and Directors Who Cooperated At Least Three Times]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.1 Basic INNER JOIN/1378. Replace Employee ID With The Unique Identifier]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1421. NPV Queries]]
+## 3.2 LEFT JOIN
+
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/607. Sales Person]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1082. Sales Analysis I]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1083. Sales Analysis II]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1084. Sales Analysis III]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1173. Immediate Food Delivery I]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1294. Weather Type in Each Country]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1322. Ads Performance]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1350. Students With Invalid Departments]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1495. Friendly Movies Streamed Last Month]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1571. Warehouse Manager]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1587. Bank Account Summary II]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1607. Sellers With No Sales]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1677. Product's Worth Over Invoices]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1777. Product's Price for Each Store]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1789. Primary Department for Each Employee]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1821. Find Customers With Positive Revenue this Year]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/1978. Employees Whose Manager Left the Company]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2072. The Winner University]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2230. The Users That Are Eligible for Discount]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2339. All the Matches of the League]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2480. Form a Chemical Bond]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2504. Concatenate the Name and the Profession]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2668. Find Latest Salaries]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2687. Bikes Last Time Used]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/2990. Loan Types]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/3172. Second Day Verification]]
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.2 LEFT JOIN/3246. Premier League Table Ranking]]
+
+## 3.3 Multiple Table Joins
+
+- [[Interview Question/Leet Code (SQL)/Chapter 3/3.3 Multiple Table Joins/1435. Create a Session Bar Chart]]
